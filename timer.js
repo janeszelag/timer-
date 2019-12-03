@@ -7,3 +7,4 @@ for (let time of args) {
     
   }, Number(time) * 1000)
 }
+
